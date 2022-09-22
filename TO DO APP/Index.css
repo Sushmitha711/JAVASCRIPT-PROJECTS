@@ -1,0 +1,22 @@
+.container{
+    justify-content: center;
+}
+body{
+    background:rgb(33, 143, 207);
+}
+form{
+    background: rgb(234, 240, 240);
+    justify-content: center;
+    color: rgb(8, 8, 8);
+}
+button{
+    margin-left: 35%;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    text-align: center;
+}
