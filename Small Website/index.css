@@ -1,0 +1,13 @@
+*{
+   margin: 0;
+   padding: 0; 
+}
+.header{
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4,9,30,0,7),rgba(4,9,30,0,7)),url(https://images.pexels.com/photos/4004374/pexels-photo-4004374.jpeg?auto=compress&cs=tinysrgb&w=400);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+
+}
